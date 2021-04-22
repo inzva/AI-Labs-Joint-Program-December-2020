@@ -1,7 +1,7 @@
 # inzva AI Labs Joint Program - December 2020
 Repository for the assignments of inzva AI Labs Joint Program December 2020, partnered with KUIS AI Lab.
 
-inzva x Koç KUIS AI Joint Program Report
+**inzva x Koç KUIS AI Joint Program Report**
 
 On December 28, inzva completed its first-ever joint program with an AI lab, a 7-week collaboration uniting inzva and [Koç University KUIS AI](https://ai.ku.edu.tr/), with **24** graduates from **15** different universities.
 
